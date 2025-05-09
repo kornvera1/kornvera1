@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Vera!
 
+👩‍💻 Data Engineer sharing about my learnings in tech<br/>
+📚 Studying at Higher School of Economics in Moscow, Russia<br/>
+💭 Currently interested in data analytics and statistics<br/>
+<br/>
+telegram: @kornvera1<br/>
+<br/>
+[![Vera's github stats](https://github-readme-stats.vercel.app/api?username=kornvera1&show_icons=true&theme=synthwave)](https://github.com/kornvera1/github-readme-stats)
 <!--
 **kornvera1/kornvera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
